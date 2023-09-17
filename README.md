@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm blubb</h1>
+<h1 align="center">Hi, I'm blubbi</h1>
 🌱 I’m currently learning Discord.py
 
 <h3 align="left">Languages and Tools:</h3>
