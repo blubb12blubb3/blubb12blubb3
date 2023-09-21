@@ -1,6 +1,3 @@
-<h1 align="center">Hi, I'm blubbi</h1>
-🌱 I’m currently learning Discord.py
-
 <h3 align="left">Stuff I use:</h3>
 <p align="left"> 
 <a href="https://stackoverflow.com/users/18765054" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18765054" height="30" width="40" /> </a> 
@@ -10,5 +7,3 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=blubb12blubb3&show_icons=true&locale=en&layout=compact" alt="blubb12blubb3" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blubb12blubb3&" alt="blubb12blubb3" /></p>
